@@ -1,0 +1,8 @@
+name: MightyMite
+version: 1.0
+main: com.huni.MightyMite.MightMite
+description: "MightyMite."
+commands:
+ MightyMite:
+        description: "마이티 마이트 전직명령어"
+        aliases: [MM,마이티마이트,마마]
