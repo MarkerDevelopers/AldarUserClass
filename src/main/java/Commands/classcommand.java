@@ -1,7 +1,6 @@
 package Commands;
 
-
-import com.huni.MightyMite.MightMite;
+import com.func.MightMite;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
